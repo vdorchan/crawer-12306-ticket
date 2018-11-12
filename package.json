@@ -1,0 +1,14 @@
+{
+  "name": "cralwer-12306-ticket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "vdorchan <vdorchan@gmail.com>",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "got": "^9.3.2",
+    "inquirer": "^6.2.0",
+    "request": "^2.88.0",
+    "table": "^5.1.0"
+  }
+}
